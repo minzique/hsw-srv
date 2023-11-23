@@ -8,7 +8,7 @@ const bodyParser = require("body-parser");
 // import path from "path"
 // import bodyParser from "body-parser";
 
-const PORT = 6969;
+const PORT = 8080;
 const app = express();
 
 app.disable("x-powered-by");
