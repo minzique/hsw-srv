@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "test": "node src/index.js"
+    "test": "node src/test/test_patch.js",
+    "run": "node src/index.js"
   },
   "keywords": [],
   "author": "minzique",
